@@ -9,3 +9,8 @@ g.drawString("welcome",15,150);
 }  
     
 }
+
+gdcsvbcmsdcjsd
+jbcsdjcncm
+cjkdjcnjnmjkbjk
+hbcdhcbhdm
